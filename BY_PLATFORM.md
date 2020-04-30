@@ -23,10 +23,10 @@ segmentation by distribution (i.e., Docker, etc.)
 
 **Contents**
 
-1. <a href="#tag-desktop">Desktop</a> *(248)*
-    1. <a href="#tag-desktop.linux">Linux</a> *(230)*
-    1. <a href="#tag-desktop.windows">Windows</a> *(146)*
-    1. <a href="#tag-desktop.mac">Mac</a> *(146)*
+1. <a href="#tag-desktop">Desktop</a> *(249)*
+    1. <a href="#tag-desktop.linux">Linux</a> *(231)*
+    1. <a href="#tag-desktop.windows">Windows</a> *(147)*
+    1. <a href="#tag-desktop.mac">Mac</a> *(147)*
     1. <a href="#tag-desktop.console">Console</a> *(20)*
 1. <a href="#tag-mobile">Mobile</a> *(1)*
     1. <a href="#tag-mobile.android">Android</a> *(1)*
@@ -129,6 +129,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **Hyde** - ([Repo](https://github.com/hyde/hyde), [Home](http://hyde.github.io/), [PyPI](https://pypi.org/project/hyde)) Static site generator which began as the Python counterpart to [Jekyll](https://github.com/jekyll/jekyll). `(static_site, windows, mac)`
   1. **Invenio** - ([Repo](https://github.com/inveniosoftware/invenio), [Docs](https://invenio.readthedocs.io/)) Customizable platform for running a trusted digital repository. `(organization)`
   1. **InVesalius** - ([Repo](https://github.com/invesalius/invesalius3), [Home](https://invesalius.github.io/), [WP](https://en.wikipedia.org/wiki/InVesalius)) Generates virtual reconstructions of structures in the human body for medical purposes, including CT and MRI scans. `(science, windows, mac, gtk)`
+  1. **iredis** - ([Repo](https://github.com/laixintao/iredis), [Home](https://iredis.com/), [PyPI](https://pypi.python.org/pypi/iredis)) Interactive Redis client that does auto-completion and syntax highlighting. `(storage, windows, mac)`
   1. **JHBuild** - ([Repo](https://gitlab.gnome.org/GNOME/jhbuild), [Home](https://wiki.gnome.org/Projects/Jhbuild), [gh](https://github.com/GNOME/jhbuild), [Docs](https://developer.gnome.org/jhbuild/stable/getting-started.html.en)) Tool designed to ease building collections of packages, originally written to build the GNOME desktop from sources. `(build)`
   1. **jrnl** - ([Repo](https://github.com/maebert/jrnl), [Home](http://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, windows, mac, homebrew)`
   1. **Jupyter Notebook** - ([Repo](https://github.com/jupyter/notebook), [Home](https://jupyter.org/), [WP](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)) Web-based, extensible notebook environment for interactive computing. `(editor, windows, mac)`
@@ -339,6 +340,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **Hubble** - ([Repo](https://github.com/hubblestack/hubble), [Docs](https://hubblestack.readthedocs.io/en/latest)) Modular security compliance client, providing on-demand profile-based auditing, alerting, and reporting. Originally designed for Adobe. `(security, linux, corp)`
   1. **Hyde** - ([Repo](https://github.com/hyde/hyde), [Home](http://hyde.github.io/), [PyPI](https://pypi.org/project/hyde)) Static site generator which began as the Python counterpart to [Jekyll](https://github.com/jekyll/jekyll). `(static_site, linux, mac)`
   1. **InVesalius** - ([Repo](https://github.com/invesalius/invesalius3), [Home](https://invesalius.github.io/), [WP](https://en.wikipedia.org/wiki/InVesalius)) Generates virtual reconstructions of structures in the human body for medical purposes, including CT and MRI scans. `(science, linux, mac, gtk)`
+  1. **iredis** - ([Repo](https://github.com/laixintao/iredis), [Home](https://iredis.com/), [PyPI](https://pypi.python.org/pypi/iredis)) Interactive Redis client that does auto-completion and syntax highlighting. `(storage, linux, mac)`
   1. **jrnl** - ([Repo](https://github.com/maebert/jrnl), [Home](http://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, linux, mac, homebrew)`
   1. **Jupyter Notebook** - ([Repo](https://github.com/jupyter/notebook), [Home](https://jupyter.org/), [WP](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)) Web-based, extensible notebook environment for interactive computing. `(editor, linux, mac)`
   1. **King Phisher** - ([Repo](https://github.com/securestate/king-phisher), [Docs](https://king-phisher.readthedocs.io/)) Server-based [phishing](https://en.wikipedia.org/wiki/Phishing) campaign toolkit, used to simulate real-world phishing attacks, with GTK-powered client application. `(security, linux, server)`
@@ -487,6 +489,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **httpie** - ([Repo](https://github.com/jakubroztocil/httpie), [Home](https://httpie.org/), [PyPI](https://pypi.org/project/httpie)) Command-line HTTP client with JSON support, syntax highlighting, wget-like downloads, extensions, and more. `(internet, dev, linux, windows)`
   1. **Hyde** - ([Repo](https://github.com/hyde/hyde), [Home](http://hyde.github.io/), [PyPI](https://pypi.org/project/hyde)) Static site generator which began as the Python counterpart to [Jekyll](https://github.com/jekyll/jekyll). `(static_site, linux, windows)`
   1. **InVesalius** - ([Repo](https://github.com/invesalius/invesalius3), [Home](https://invesalius.github.io/), [WP](https://en.wikipedia.org/wiki/InVesalius)) Generates virtual reconstructions of structures in the human body for medical purposes, including CT and MRI scans. `(science, linux, windows, gtk)`
+  1. **iredis** - ([Repo](https://github.com/laixintao/iredis), [Home](https://iredis.com/), [PyPI](https://pypi.python.org/pypi/iredis)) Interactive Redis client that does auto-completion and syntax highlighting. `(storage, linux, windows)`
   1. **jrnl** - ([Repo](https://github.com/maebert/jrnl), [Home](http://jrnl.sh/)) Simple, ecncrypted journal application for your command line. `(organization, linux, windows, homebrew)`
   1. **Jupyter Notebook** - ([Repo](https://github.com/jupyter/notebook), [Home](https://jupyter.org/), [WP](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)) Web-based, extensible notebook environment for interactive computing. `(editor, linux, windows)`
   1. **Komodo Edit** - ([Repo](https://github.com/Komodo/KomodoEdit), [Home](https://www.activestate.com/products/komodo-edit), [WP](https://en.wikipedia.org/wiki/Komodo_Edit)) Multi-language code editor, written in JS, Python, and C++, based on the Mozilla platform. `(editor, linux, windows, cpp, js)`

@@ -15,7 +15,7 @@ are a gold mine of practical patterns that we know work together. A
 production application is worth a thousand blog posts and Stack
 Overflow answers.
 
-This document is an always-growing list of **393**
+This document is an always-growing list of **394**
 open-source Python applications arranged by topic, with links to
 repositories, docs, and more, generated from [structured
 data](https://github.com/mahmoud/awesome-python-applications/blob/master/projects.yaml)
@@ -46,10 +46,10 @@ thereof), see Architectures. -->
 1. <a href="#tag-cms">CMS</a> *(11)*
 1. <a href="#tag-erp">ERP</a> *(5)*
 1. <a href="#tag-static_site">Static Site</a> *(9)*
-1. <a href="#tag-dev">Dev</a> *(171)*
+1. <a href="#tag-dev">Dev</a> *(172)*
     1. <a href="#tag-dev.scm">SCM</a> *(17)*
     1. <a href="#tag-dev.code_review">Code Review</a> *(4)*
-    1. <a href="#tag-dev.storage">Storage</a> *(17)*
+    1. <a href="#tag-dev.storage">Storage</a> *(18)*
     1. <a href="#tag-dev.ops">Ops</a> *(25)*
     1. <a href="#tag-dev.security">Security</a> *(26)*
     1. <a href="#tag-dev.docs">Docs</a> *(7)*
@@ -380,6 +380,7 @@ Projects related to software development and adjacent technical areas.
   1. **EdgeDB** - ([Repo](https://github.com/edgedb/edgedb), [Home](https://edgedb.com/), [Docs](https://edgedb.com/docs)) High-performance object-relational database built on top of PostgreSQL, featuring strict, strong typing, built-in migrations, and GraphQL support. `(server)`
   1. **FreeNAS** - ([Repo](https://github.com/freenas/freenas), [Home](https://www.freenas.org/), [Docs](https://www.ixsystems.com/documentation/freenas)) Operating system designed to be installed virtually any hardware platform, for sharing [ZFS](https://en.wikipedia.org/wiki/ZFS)-based storage over a network, using SMB, NFS, AFP, FTP, and more. `(server)`
   1. **Gridsync** - ([Repo](https://github.com/gridsync/gridsync)) Cross-platform GUI built to synchronize local directories with Tahoe-LAFS storage grids. `(productivity, linux, windows, mac)`
+  1. **iredis** - ([Repo](https://github.com/laixintao/iredis), [Home](https://iredis.com/), [PyPI](https://pypi.python.org/pypi/iredis)) Interactive Redis client that does auto-completion and syntax highlighting. `(linux, windows, mac)`
   1. **kinto** - ([Repo](https://github.com/Kinto/kinto), [Home](https://www.kinto-storage.org/), [Docs](http://docs.kinto-storage.org/)) A generic JSON document store with sharing and synchronisation capabilities, supporting in-memory and PostgreSQL backends. `(server)`
   1. **mycli** - ([Repo](https://github.com/dbcli/mycli), [Home](https://www.mycli.net/), [PyPI](https://pypi.python.org/pypi/mycli)) Interactive MySQL client that does auto-completion and syntax highlighting. `(linux, mac)`
   1. **Nuxeo Drive** - ([Repo](https://github.com/nuxeo/nuxeo-drive), [Home](https://www.nuxeo.com/products/drive-desktop-sync), [Docs](https://doc.nuxeo.com/client-apps/nuxeo-drive)) Cross-platform desktop synchronization client for the Nuxeo platform. `(productivity, linux, windows, mac, console, appimage, lgpl, qt5)`

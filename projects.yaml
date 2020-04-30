@@ -2672,6 +2672,17 @@ projects:
     tags:
       - storage
       - server
+  - name: iredis
+    repo_url: https://github.com/laixintao/iredis
+    home_url: https://iredis.com/
+    pypi_url: https://pypi.python.org/pypi/iredis
+    date_added: 2020-04-30 17:17:00
+    desc: Interactive Redis client that does auto-completion and syntax highlighting.
+    tags:
+      - storage
+      - linux
+      - windows
+      - mac
   - name: kinto
     repo_url: https://github.com/Kinto/kinto
     home_url: https://www.kinto-storage.org/
