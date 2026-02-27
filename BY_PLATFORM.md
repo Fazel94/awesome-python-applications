@@ -23,8 +23,8 @@ segmentation by distribution (i.e., Docker, etc.)
 
 **Contents**
 
-1. <a href="#tag-desktop">Desktop</a> *(260)*
-    1. <a href="#tag-desktop.linux">Linux</a> *(240)*
+1. <a href="#tag-desktop">Desktop</a> *(262)*
+    1. <a href="#tag-desktop.linux">Linux</a> *(242)*
     1. <a href="#tag-desktop.windows">Windows</a> *(151)*
     1. <a href="#tag-desktop.mac">Mac</a> *(152)*
     1. <a href="#tag-desktop.console">Console</a> *(22)*
@@ -114,6 +114,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **Gitless** - ([Repo](https://github.com/sdg-mit/gitless), [Home](https://gitless.com/), [PyPI](https://pypi.org/project/gitless), [Docs](https://gitless.com/#documentation)) Simple version control system built on top of Git. `(scm, windows, mac)`
   1. **Glances** - ([Repo](https://github.com/nicolargo/glances), [Home](https://nicolargo.github.io/glances), [Docs](https://glances.readthedocs.io/en/stable)) A cross-platform top/htop alternative, providing an overview of system resources. `(productivity, ops, windows, mac, server)`
   1. **gmvault** - ([Repo](https://github.com/gaubert/gmvault), [Home](http://gmvault.org/)) Tool for backing up gmail accounts. `(productivity, windows, mac, qt5)`
+  1. **Gnome Music** - ([Repo](https://gitlab.gnome.org/GNOME/gnome-music), [Home](https://welcome.gnome.org/en/app/Music)) GNOME Music player with  collection management feaures. `(audio, gtk)`
   1. **GNS3 GUI** - ([Repo](https://github.com/GNS3/gns3-gui), [Home](https://www.gns3.com/), [PyPI](https://pypi.org/project/gns3-gui), [Docs](https://docs.gns3.com/)) Graphical Network Simulator used to emulate, configure, test and troubleshoot virtual and real networks. (Backed by server component [here](https://github.com/GNS3/gns3-server).) `(dev, windows, mac)`
   1. **GNU Bazaar** - ([Repo](https://code.launchpad.net/bzr), [Home](http://bazaar.canonical.com/en), [WP](https://en.wikipedia.org/wiki/GNU_Bazaar), [Docs](http://doc.bazaar.canonical.com/en)) Distributed and client-server revision control system. `(scm, windows, mac)`
   1. **GNU Radio** - ([Repo](https://github.com/gnuradio/gnuradio), [Home](https://www.gnuradio.org/), [WP](https://en.wikipedia.org/wiki/GNU_Radio)) Software development toolkit that provides signal processing blocks to implement software-defined radios and signal-processing systems. `(audio, windows, mac, cpp, qt)`
@@ -188,6 +189,7 @@ segmentation by distribution (i.e., Docker, etc.)
   1. **OpenShot** - ([Repo](https://github.com/OpenShot/openshot-qt), [Home](https://www.openshot.org/), [WP](https://en.wikipedia.org/wiki/OpenShot), [Fund](https://www.patreon.com/openshot)) A cross-platform video editor for FreeBSD, Linux, macOS, and Windows. `(video, windows, mac, qt5)`
   1. **OpenSnitch** - ([Repo](https://github.com/evilsocket/opensnitch), [Fund](https://www.patreon.com/evilsocket)) GNU/Linux port of the [Little Snitch](https://en.wikipedia.org/wiki/Little_Snitch) application firewall. `(security, qt5)`
   1. **Orange** - ([Repo](https://github.com/biolab/orange3), [Home](https://orange.biolab.si/), [WP](https://en.wikipedia.org/wiki/Orange_%28software%29)) Component-based data mining software for graphical interactive data analysis and visualization. `(science, windows, mac, qt4, qt5)`
+  1. **Orca** - ([Repo](https://gitlab.gnome.org/GNOME/orca), [Home](https://help.gnome.org/orca/introduction.html), [WP](https://en.wikipedia.org/wiki/Orca_%28assistive_technology%29)) Screen reader that provides both speech and refreshable braile. `(accessibility, gtk)`
   1. **Pants** - ([Repo](https://github.com/pantsbuild/pants), [Home](https://www.pantsbuild.org/)) Build system designed for monolithic repositories. `(build, mac, corp)`
   1. **Paperwork** - ([Repo](https://gitlab.gnome.org/World/OpenPaperwork/paperwork), [Home](https://openpaper.work/), [Fund](https://www.patreon.com/openpaper), [Docs](https://gitlab.gnome.org/World/OpenPaperwork/paperwork/wikis/home)) Personal document manager for organizing scanned documents and PDFs, with support for OCR, automatic tagging, and search. `(organization, windows, gtk)`
   1. **PathPicker** - ([Repo](https://github.com/facebook/PathPicker), [Home](http://facebook.github.io/PathPicker)) Shell utility to interactively select paths from the output of other commands. `(dev, mac)`

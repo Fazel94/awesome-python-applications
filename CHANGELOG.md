@@ -1,7 +1,15 @@
 # Awesome Python Applications - Changelog
 
-The same 426 projects from the Awesome Python Applications list,
+The same 429 projects from the Awesome Python Applications list,
 but arranged in reverse-chronological order of when they were listed.
+
+## 2026-02-27
+
+  1. **Gnome Music** - ([Repo](https://gitlab.gnome.org/GNOME/gnome-music), [Home](https://welcome.gnome.org/en/app/Music)) GNOME Music player with  collection management feaures.
+  1. **Orca** - ([Repo](https://gitlab.gnome.org/GNOME/orca), [Home](https://help.gnome.org/orca/introduction.html), [WP](https://en.wikipedia.org/wiki/Orca_%28assistive_technology%29)) Screen reader that provides both speech and refreshable braile.
+  1. **PySpread** - ([Repo](https://gitlab.com/pyspread/pyspread), [WP](https://en.wikipedia.org/wiki/Pyspread)) spreadsheet application written in Python, Scriptable spreadsheet model where each cell can contain arbitrary Python expressions.
+
+
 
 ## 2025-04-25
 
